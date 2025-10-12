@@ -1,2 +1,1 @@
-# template_projects
-Will contain template projects for all my projects.
+`Will contain template projects for all my projects.`
