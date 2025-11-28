@@ -8,5 +8,11 @@
 
     ---
 
+- empty_with_readme_t (*[main](https://github.com/ElHamzi-Abderrahim/empty_with_readme_t/tree/main)*) (*[dev](https://github.com/ElHamzi-Abderrahim/empty_with_readme_t/tree/dev)*): 
+    
+    Which will be used in github to create the starting point for any project that is has no full template, which will be just containing a README with basic sections.
+
+    ---
+
     
 
