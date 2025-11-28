@@ -1,3 +1,6 @@
 [submodule "rtl_project_t"]
 	path = rtl_project_t
 	url = https://github.com/ElHamzi-Abderrahim/rtl_project_t.git
+[submodule "empty_with_readme_t"]
+	path = empty_with_readme_t
+	url = git@github.com:ElHamzi-Abderrahim/empty_with_readme_t.git
